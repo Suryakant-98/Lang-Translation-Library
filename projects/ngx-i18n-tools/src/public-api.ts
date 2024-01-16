@@ -5,3 +5,4 @@
 export * from './lib/translation.service';
 export * from './lib/ngx-i18n-tools.component';
 export * from './lib/ngx-i18n-tools.module';
+export * from './lib/translate.pipe';
