@@ -1,6 +1,6 @@
 {
   "name": "ngx-i18n-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is a language translation library published by Surya",
   "keywords": ["locale", "translations", "language", "translate", "i18n", "localization"],
   "author": {
