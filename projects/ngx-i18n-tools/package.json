@@ -1,7 +1,7 @@
 {
   "name": "ngx-i18n-tools",
-  "version": "0.0.4",
-  "description": "A library to work with internationalization and localization. ",
+  "version": "1.0.1",
+  "description": "A library to work with internationalization and localization in Angular applications. ",
   "keywords": ["locale", "translations", "language", "translate", "i18n", "localization"],
   "author": {
     "name": "Surya",
